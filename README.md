@@ -1,22 +1,21 @@
-# GIt Essentials Extension Pack 2023 - TechieCouch
+# Flutter Essentials Extension Pack 2023 - TechieCouch
 
 ---
 
-[![Version](https://vsmarketplacebadges.dev/version/TechieCouch.git-essentials.png)](https://marketplace.visualstudio.com/items?itemName=TechieCouch.git-essentials)
-[![Installs](https://vsmarketplacebadges.dev/installs/TechieCouch.git-essentials.png)](https://marketplace.visualstudio.com/items?itemName=TechieCouch.git-essentials)
-[![Ratings](https://vsmarketplacebadges.dev/downloads/TechieCouch.git-essentials.png)](https://marketplace.visualstudio.com/items?itemName=TechieCouch.git-essentials)
+[![Version](https://vsmarketplacebadges.dev/version/TechieCouch.flutter-essentials-techiecouch.png)](https://marketplace.visualstudio.com/items?itemName=TechieCouch.flutter-essentials-techiecouch)
+[![Installs](https://vsmarketplacebadges.dev/installs/TechieCouch.flutter-essentials-techiecouch.png)](https://marketplace.visualstudio.com/items?itemName=TechieCouch.flutter-essentials-techiecouch)
+[![Ratings](https://vsmarketplacebadges.dev/downloads/TechieCouch.flutter-essentials-techiecouch.png)](https://marketplace.visualstudio.com/items?itemName=TechieCouch.flutter-essentials-techiecouch)
 
 ## Extensions included
 
-- [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory) - View git log, file history, compare branches or commits
-- [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - Supercharge the Git capabilities built into Visual Studio Code — Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more
-- [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph) - View a Git Graph of your repository, and easily perform Git actions from the graph. Configurable to look the way you want!
-- [Git Blame](https://marketplace.visualstudio.com/items?itemName=waderyan.gitblame) - See Git Blame information in the status bar for the currently selected line.
-- [Open in GitHub, Bitbucket, Gitlab, VisualStudio.com](https://marketplace.visualstudio.com/items?itemName=ziyasal.vscode-open-in-github) - Open in GitHub, Bitbucket, Gitlab, VisualStudio.com
-- [gitignore](https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore) - Lets you pull .gitignore templates from the <https://github.com/github/gitignore> repository. Language support for .gitignore files.
-- [git-autoconfig](https://marketplace.visualstudio.com/items?itemName=shyykoserhiy.git-autoconfig) - Working with git repos where you can have multiple emails (like one for work, one for github, one for bitbucket, etc...) can be painful. This extension forces you to set locally user.email and user.name for each project under git that you open with vscode.
-- [Git Merger](https://marketplace.visualstudio.com/items?itemName=shaharkazaz.git-merger) - Simplifies the git merge process
-- [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) - Synchronize Settings, Snippets, Themes, File Icons, Launch, Keybindings, Workspaces and Extensions Across Multiple Machines Using GitHub Gist.
-- [Git Tags](https://marketplace.visualstudio.com/items?itemName=howardzuo.vscode-git-tags) - Quick manage tags for a git repo.
-- [GitLab Workflow](https://marketplace.visualstudio.com/items?itemName=GitLab.gitlab-workflow) - This extension integrates GitLab into Visual Studio Code.
-- [Git Branch Warnings](https://marketplace.visualstudio.com/items?itemName=GitLab.gitlab-workflow) - Branch Warnings - Alerts you when you are working on a branch you have designated "protected" such as main or master. Can help to remember not to commit to the wrong branch.
+- [Dart](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code) - Dart Code extends VS Code with support for the Dart programming language, and provides tools for effectively editing, refactoring, running, and reloading Flutter mobile apps.
+- [Flutter](https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter) - This VS Code extension adds support for effectively editing, refactoring, running, and reloading Flutter mobile apps. It depends on (and will automatically install) the Dart extension for support for the Dart programming language.
+- [Flutter Widget Snippets](https://marketplace.visualstudio.com/items?itemName=alexisvt.flutter-snippets) - A set of helpful Flutter and Dart snippets for day to day Flutter development.
+- [Pubspec Assist](https://marketplace.visualstudio.com/items?itemName=jeroen-meijer.pubspec-assist) -Pubspec Assist is a Visual Studio Code extension that allows you to easily add dependencies to your Dart and Flutter project's pubspec.yaml, all without leaving your editor.
+- [|FF| Flutter Files](https://marketplace.visualstudio.com/items?itemName=gornivv.vscode-flutter-files) - This extension allows quickly scaffold flutter BLoC templates in VS Code project.
+- [bloc](https://marketplace.visualstudio.com/items?itemName=FelixAngelov.bloc) - VSCode support for the Bloc Library and provides tools for effectively creating Blocs and Cubits for both Flutter and AngularDart apps.
+- [dart-import](https://marketplace.visualstudio.com/items?itemName=luanpotter.dart-import) - A simple plugin for VSCode to change all Dart/Flutter imports to relative format.
+- [Flutter Intl](https://marketplace.visualstudio.com/items?itemName=localizely.flutter-intl) - VS Code extension to create a binding between your translations from .arb files and your Flutter app. It generates boilerplate code for official Dart Intl library and adds auto-complete for keys in Dart code.
+- [Flutter Color](https://marketplace.visualstudio.com/items?itemName=circlecodesolution.ccs-flutter-color) - A user friendly plugin to help you work with ARGB Color in VS Code, for any project. You can easily use it. It will automatically convert your ARGB Color Code and show you a color box. The size of the color box is set by VS Code and we can't change it.
+- [Json to Dart Model](https://marketplace.visualstudio.com/items?itemName=hirantha.json-to-dart) - An extension convert Json to Dart Model class.
+- [Flutter Tree](https://marketplace.visualstudio.com/items?itemName=marcelovelasquez.flutter-tree) - Extension for Flutter to build basic widget tree with nice syntax.

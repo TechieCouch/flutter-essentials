@@ -1,8 +1,8 @@
 {
-  "name": "git-essentials",
-  "displayName": "Git Essentials",
-  "description": "The 2023 Collection of extensions for the modern developer using GIT on VS Code",
-  "version": "0.2.1",
+  "name": "flutter-essentials-techiecouch",
+  "displayName": "Flutter Essentials 2023",
+  "description": "The 2023 Collection of extensions for the modern developer using Flutter on VS Code",
+  "version": "0.0.2",
   "publisher": "TechieCouch",
   "icon": "images/logo.jpg",
   "engines": {
@@ -13,32 +13,29 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/TechieCouch/git-essentials"
+    "url": "https://github.com/TechieCouch/flutter-essentials"
   },
   "keywords": [
-    "Git",
-    "gitignore",
-    "git blame",
-    "git graph",
-    "git history",
-    "open in github",
-    "git lens",
-    "sync to git",
-    "git merge"
+    "Dart",
+    "Flutter",
+    "Widget",
+    "Pubspec",
+    "dart import",
+    "Json to Dart",
+    "Flutter Tree"
   ],
   "extensionPack": [
-    "publisher.extensionName",
-    "eamodio.gitlens",
-    "codezombiech.gitignore",
-    "mhutchie.git-graph",
-    "donjayamanne.githistory",
-    "waderyan.gitblame",
-    "ziyasal.vscode-open-in-github",
-    "Shan.code-settings-sync",
-    "shyykoserhiy.git-autoconfig",
-    "shaharkazaz.git-merger",
-    "howardzuo.vscode-git-tags",
-    "GitLab.gitlab-workflow",
+    "Dart-Code.flutter",
+    "Dart-Code.dart-code",
+    "alexisvt.flutter-snippets",
+    "jeroen-meijer.pubspec-assist",
+    "gornivv.vscode-flutter-files",
+    "FelixAngelov.bloc",
+    "luanpotter.dart-import",
+    "localizely.flutter-intl",
+    "circlecodesolution.ccs-flutter-color",
+    "hirantha.json-to-dart",
+    "marcelovelasquez.flutter-tree",
     "teledemic.branch-warnings"
   ]
 }
