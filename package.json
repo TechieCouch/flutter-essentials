@@ -1,0 +1,44 @@
+{
+  "name": "git-essentials",
+  "displayName": "Git Essentials",
+  "description": "The 2023 Collection of extensions for the modern developer using GIT on VS Code",
+  "version": "0.2.1",
+  "publisher": "TechieCouch",
+  "icon": "images/logo.jpg",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TechieCouch/git-essentials"
+  },
+  "keywords": [
+    "Git",
+    "gitignore",
+    "git blame",
+    "git graph",
+    "git history",
+    "open in github",
+    "git lens",
+    "sync to git",
+    "git merge"
+  ],
+  "extensionPack": [
+    "publisher.extensionName",
+    "eamodio.gitlens",
+    "codezombiech.gitignore",
+    "mhutchie.git-graph",
+    "donjayamanne.githistory",
+    "waderyan.gitblame",
+    "ziyasal.vscode-open-in-github",
+    "Shan.code-settings-sync",
+    "shyykoserhiy.git-autoconfig",
+    "shaharkazaz.git-merger",
+    "howardzuo.vscode-git-tags",
+    "GitLab.gitlab-workflow",
+    "teledemic.branch-warnings"
+  ]
+}
